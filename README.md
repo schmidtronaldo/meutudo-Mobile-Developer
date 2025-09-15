@@ -8,4 +8,4 @@
 ### Projetos:
     - Sequenciador de senhas do Batman com React Native
     - Desafio: Recrie um app de Bat Sinal
-    -
+    - Criando seu App de Portfólio
